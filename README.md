@@ -1,4 +1,9 @@
 # 💫 About Me:
+I am a software engineer passionate about building applications and learning new technologies. I enjoy problem-solving and continuously improving my skills. My goal is to become a professional developer and work on real-world projects. * 🌍 I'm based in Egypt * ✉️ You can contact me at [ahmedsayedtech2@gmail.com](mailto:ahmedsayedtech2@gmail.com) * 🧠 I'm currently learning React * 👥 I'm looking to collaborate on Projects * 💬 Ask me about I Am Batman, Tell Everyone
+
+
+
+
 I'm currently working on Recipe App<br>I'm looking to collaborate on Projects<br>I'm currently learning React<br>Ask me about I'm Batman , Tell Everyone
 
 
