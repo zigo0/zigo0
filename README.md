@@ -13,11 +13,6 @@ I am a software engineer passionate about building applications and learning new
 * 💬 Ask me about I Am Batman, Tell Everyone  
 
 
-
-
-I'm currently working on Recipe App<br>I'm looking to collaborate on Projects<br>I'm currently learning React<br>Ask me about I'm Batman , Tell Everyone
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ahmedsayedtech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedsayedtech2@gmail.com) 
 
